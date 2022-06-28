@@ -137,11 +137,6 @@ nav ul button:hover {
 
 /* Product Catalog */
 
-section .catalog{
-    width: 100%;
-    padding: 100px;
-}
-
 section .filter-card{
     width: 980px;
     height: 150px;
@@ -187,7 +182,7 @@ section .card-item img {
 }
 
 .card-content {
-    height: 40%;
+    height: 80%;
     display: flex;
     flex-direction: column;
     align-items: center;
